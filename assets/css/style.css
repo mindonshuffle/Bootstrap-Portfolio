@@ -1,23 +1,6 @@
 body{
 	background-image: url("../images/background.png");
-}
-
-.portfolio-block{
-	position: relative;
-}
-
-.portfolio-image{
-	
-}
-
-.portfolio-label{
-	z-index: 1;
-	bottom:10%;
-	margin: auto;
-	position: absolute;
-	background-color: grey;
-	text-align: center
-	/*width: 200px;*/
+	padding-bottom: 50px;
 }
 
 .connectIcon{
