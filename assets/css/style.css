@@ -1,3 +1,32 @@
-/*#myPhoto{
-	width: 240px;
-}*/
+body{
+	background-image: url("../images/background.png");
+}
+
+.portfolio-block{
+	position: relative;
+}
+
+.portfolio-image{
+	
+}
+
+.portfolio-label{
+	z-index: 1;
+	bottom:10%;
+	margin: auto;
+	position: absolute;
+	background-color: grey;
+	text-align: center
+	/*width: 200px;*/
+}
+
+.connectIcon{
+	width: 80px;
+}
+
+#myPhoto{
+	width: 220px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+
+}
